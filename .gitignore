@@ -1,0 +1,9 @@
+.venv/
+
+cifake-real-and-ai-generated-synthetic-images.zip
+
+train/
+
+test/
+
+trained_models/
