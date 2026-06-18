@@ -194,4 +194,4 @@ This project is intended for educational and research purposes. As image generat
 
 ## Author
 
-Developed as a deep learning and computer vision project exploring the detection of AI-generated imagery using modern transfer learning techniques.
+Developed as a deep learning and computer vision project exploring the detection of AI-generated imagery using modern transfer learning techniques. Further imporovements on its way.
